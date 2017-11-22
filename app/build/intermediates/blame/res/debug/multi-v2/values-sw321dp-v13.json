@@ -1,0 +1,19 @@
+{
+    "logs": [
+        {
+            "outputFile": "/home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/build/intermediates/incremental/mergeDebugResources/merged.dir/values-sw321dp-v13/values-sw321dp-v13.xml",
+            "map": [
+                {
+                    "source": "/home/alimam/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.28.0.aar/5e80f93cceccad60a53502cdee43c0e0/res/values-sw321dp-v13/values-sw321dp-v13.xml",
+                    "from": {
+                        "startLines": "2,3",
+                        "startColumns": "4,4",
+                        "startOffsets": "55,118",
+                        "endColumns": "62,74",
+                        "endOffsets": "113,188"
+                    }
+                }
+            ]
+        }
+    ]
+}

@@ -1,0 +1,384 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:2:1-63:12
+INJECTED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:2:1-63:12
+INJECTED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:2:1-63:12
+INJECTED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:2:1-63:12
+MERGED from [com.facebook.android:account-kit-sdk:4.28.0] /home/alimam/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.28.0.aar/5e80f93cceccad60a53502cdee43c0e0/AndroidManifest.xml:21:1-55:12
+MERGED from [com.android.support:design:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/f3817e3600a4e279325609e36937d15c/AndroidManifest.xml:17:1-31:12
+MERGED from [com.facebook.android:facebook-android-sdk:4.28.0] /home/alimam/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.28.0.aar/84b9281a3fea8e12b2d6e00643bf37f4/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-login:4.28.0] /home/alimam/.gradle/caches/transforms-1/files-1.1/facebook-login-4.28.0.aar/46fc3e1bc832688375c75d6e4558de32/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-share:4.28.0] /home/alimam/.gradle/caches/transforms-1/files-1.1/facebook-share-4.28.0.aar/afd5b20b4dfd6640431fedc3eaa490fd/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-common:4.28.0] /home/alimam/.gradle/caches/transforms-1/files-1.1/facebook-common-4.28.0.aar/871b0694d287b5995714dbd41d0fa3b8/AndroidManifest.xml:21:1-36:12
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/9136a0bf25497b6a1b606afe05795878/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/alimam/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/0d77361c95d6adddf9aabf05821d76cf/AndroidManifest.xml:2:1-11:12
+MERGED from [com.android.support:transition:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/dcfcec056fd274096788e61982a3ebb4/AndroidManifest.xml:17:1-28:12
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.0.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-11.0.1.aar/1f07913cf2d23a83175902542b68e5c8/AndroidManifest.xml:2:1-4:12
+MERGED from [com.google.android.gms:play-services-auth:11.0.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.0.1.aar/c52fe87301c507418b21e0f686f02a12/AndroidManifest.xml:16:1-26:12
+MERGED from [com.google.android.gms:play-services-auth-base:11.0.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-11.0.1.aar/75e2dfc7ec6e8d2a8a9573d1e1d8e1a3/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-base:11.0.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.1.aar/31d95291742d44d35637651ffd8d26cc/AndroidManifest.xml:16:1-21:12
+MERGED from [com.google.android.gms:play-services-tasks:11.0.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.1.aar/6864347ed80b860bf2b1144719230497/AndroidManifest.xml:2:1-5:12
+MERGED from [com.google.android.gms:play-services-basement:11.0.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.1.aar/71826669b44d4c8f062fb88f859e7214/AndroidManifest.xml:16:1-23:12
+MERGED from [com.android.support:support-v4:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/17038219df9a15967ed3859c127622c1/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/7ded95ca430d0d10de899dc464c8ae52/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/8e3ee458ff117d3a4d7ff62c23dd1c7f/AndroidManifest.xml:17:1-28:12
+MERGED from [com.facebook.android:facebook-places:4.28.0] /home/alimam/.gradle/caches/transforms-1/files-1.1/facebook-places-4.28.0.aar/4ec486115462bafa31dd8f249d1025bf/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-applinks:4.28.0] /home/alimam/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.28.0.aar/ad94cb633b5db181083b1bc0cd5927e7/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-messenger:4.28.0] /home/alimam/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.28.0.aar/c9cae638bece6e896fdd163a5c485c9d/AndroidManifest.xml:21:1-31:12
+MERGED from [com.facebook.android:facebook-core:4.28.0] /home/alimam/.gradle/caches/transforms-1/files-1.1/facebook-core-4.28.0.aar/2e690b7cc6d4081e498d2535ba1e75b0/AndroidManifest.xml:21:1-45:12
+MERGED from [com.android.support:support-fragment:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/276fefaa3f7ff8d706a4343fb0d922ee/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/8481e4bfacd1aa883d20a2a4faeedf75/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/a1c39bb09e5028911f08d8037d0f180a/AndroidManifest.xml:17:1-26:12
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/78e45dc70cd9841262039709a1ab8a38/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:customtabs:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/customtabs-25.3.1.aar/0f7ed0ba2f55b46fd840bcac8403c723/AndroidManifest.xml:17:1-28:12
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/2cc3f12ee418030e95a3e9dbfb613df0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:support-compat:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/06e30ebe9755b118d06cfbb0b6565ee0/AndroidManifest.xml:17:1-31:12
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/629423c16d3bbbf5cffed811fef6a70a/AndroidManifest.xml:17:1-28:12
+INJECTED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:2:1-63:12
+INJECTED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:2:1-63:12
+INJECTED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:2:1-63:12
+	package
+		ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:4:5-46
+		INJECTED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml
+		INJECTED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml
+		ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:2:1-63:12
+		INJECTED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml
+	xmlns:tools
+		ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:3:5-51
+	android:versionCode
+		INJECTED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml
+		ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:2:1-63:12
+		INJECTED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.INTERNET
+ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:6:5-67
+	android:name
+		ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:6:22-64
+application
+ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:8:5-61:19
+MERGED from [com.facebook.android:account-kit-sdk:4.28.0] /home/alimam/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.28.0.aar/5e80f93cceccad60a53502cdee43c0e0/AndroidManifest.xml:28:5-53:19
+MERGED from [com.facebook.android:account-kit-sdk:4.28.0] /home/alimam/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.28.0.aar/5e80f93cceccad60a53502cdee43c0e0/AndroidManifest.xml:28:5-53:19
+MERGED from [com.android.support:design:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/f3817e3600a4e279325609e36937d15c/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:design:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/f3817e3600a4e279325609e36937d15c/AndroidManifest.xml:29:5-20
+MERGED from [com.facebook.android:facebook-android-sdk:4.28.0] /home/alimam/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.28.0.aar/84b9281a3fea8e12b2d6e00643bf37f4/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-android-sdk:4.28.0] /home/alimam/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.28.0.aar/84b9281a3fea8e12b2d6e00643bf37f4/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.28.0] /home/alimam/.gradle/caches/transforms-1/files-1.1/facebook-login-4.28.0.aar/46fc3e1bc832688375c75d6e4558de32/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-login:4.28.0] /home/alimam/.gradle/caches/transforms-1/files-1.1/facebook-login-4.28.0.aar/46fc3e1bc832688375c75d6e4558de32/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.28.0] /home/alimam/.gradle/caches/transforms-1/files-1.1/facebook-share-4.28.0.aar/afd5b20b4dfd6640431fedc3eaa490fd/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-share:4.28.0] /home/alimam/.gradle/caches/transforms-1/files-1.1/facebook-share-4.28.0.aar/afd5b20b4dfd6640431fedc3eaa490fd/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-common:4.28.0] /home/alimam/.gradle/caches/transforms-1/files-1.1/facebook-common-4.28.0.aar/871b0694d287b5995714dbd41d0fa3b8/AndroidManifest.xml:28:5-34:19
+MERGED from [com.facebook.android:facebook-common:4.28.0] /home/alimam/.gradle/caches/transforms-1/files-1.1/facebook-common-4.28.0.aar/871b0694d287b5995714dbd41d0fa3b8/AndroidManifest.xml:28:5-34:19
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/9136a0bf25497b6a1b606afe05795878/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/9136a0bf25497b6a1b606afe05795878/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/alimam/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/0d77361c95d6adddf9aabf05821d76cf/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/alimam/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/0d77361c95d6adddf9aabf05821d76cf/AndroidManifest.xml:9:5-20
+MERGED from [com.android.support:transition:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/dcfcec056fd274096788e61982a3ebb4/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:transition:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/dcfcec056fd274096788e61982a3ebb4/AndroidManifest.xml:26:5-20
+MERGED from [com.google.android.gms:play-services-auth:11.0.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.0.1.aar/c52fe87301c507418b21e0f686f02a12/AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-auth:11.0.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.0.1.aar/c52fe87301c507418b21e0f686f02a12/AndroidManifest.xml:19:5-25:19
+MERGED from [com.google.android.gms:play-services-base:11.0.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.1.aar/31d95291742d44d35637651ffd8d26cc/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-base:11.0.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.1.aar/31d95291742d44d35637651ffd8d26cc/AndroidManifest.xml:18:5-20:19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.1.aar/6864347ed80b860bf2b1144719230497/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-tasks:11.0.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.1.aar/6864347ed80b860bf2b1144719230497/AndroidManifest.xml:4:5-19
+MERGED from [com.google.android.gms:play-services-basement:11.0.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.1.aar/71826669b44d4c8f062fb88f859e7214/AndroidManifest.xml:19:5-21:19
+MERGED from [com.google.android.gms:play-services-basement:11.0.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.1.aar/71826669b44d4c8f062fb88f859e7214/AndroidManifest.xml:19:5-21:19
+MERGED from [com.android.support:support-v4:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/17038219df9a15967ed3859c127622c1/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-v4:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/17038219df9a15967ed3859c127622c1/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/7ded95ca430d0d10de899dc464c8ae52/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/7ded95ca430d0d10de899dc464c8ae52/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/8e3ee458ff117d3a4d7ff62c23dd1c7f/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/8e3ee458ff117d3a4d7ff62c23dd1c7f/AndroidManifest.xml:26:5-20
+MERGED from [com.facebook.android:facebook-places:4.28.0] /home/alimam/.gradle/caches/transforms-1/files-1.1/facebook-places-4.28.0.aar/4ec486115462bafa31dd8f249d1025bf/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-places:4.28.0] /home/alimam/.gradle/caches/transforms-1/files-1.1/facebook-places-4.28.0.aar/4ec486115462bafa31dd8f249d1025bf/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.28.0] /home/alimam/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.28.0.aar/ad94cb633b5db181083b1bc0cd5927e7/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-applinks:4.28.0] /home/alimam/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.28.0.aar/ad94cb633b5db181083b1bc0cd5927e7/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.28.0] /home/alimam/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.28.0.aar/c9cae638bece6e896fdd163a5c485c9d/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-messenger:4.28.0] /home/alimam/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.28.0.aar/c9cae638bece6e896fdd163a5c485c9d/AndroidManifest.xml:28:5-29:19
+MERGED from [com.facebook.android:facebook-core:4.28.0] /home/alimam/.gradle/caches/transforms-1/files-1.1/facebook-core-4.28.0.aar/2e690b7cc6d4081e498d2535ba1e75b0/AndroidManifest.xml:28:5-43:19
+MERGED from [com.facebook.android:facebook-core:4.28.0] /home/alimam/.gradle/caches/transforms-1/files-1.1/facebook-core-4.28.0.aar/2e690b7cc6d4081e498d2535ba1e75b0/AndroidManifest.xml:28:5-43:19
+MERGED from [com.android.support:support-fragment:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/276fefaa3f7ff8d706a4343fb0d922ee/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-fragment:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/276fefaa3f7ff8d706a4343fb0d922ee/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/8481e4bfacd1aa883d20a2a4faeedf75/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/8481e4bfacd1aa883d20a2a4faeedf75/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/78e45dc70cd9841262039709a1ab8a38/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/78e45dc70cd9841262039709a1ab8a38/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:customtabs:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/customtabs-25.3.1.aar/0f7ed0ba2f55b46fd840bcac8403c723/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:customtabs:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/customtabs-25.3.1.aar/0f7ed0ba2f55b46fd840bcac8403c723/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/2cc3f12ee418030e95a3e9dbfb613df0/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/2cc3f12ee418030e95a3e9dbfb613df0/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/06e30ebe9755b118d06cfbb0b6565ee0/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:support-compat:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/06e30ebe9755b118d06cfbb0b6565ee0/AndroidManifest.xml:29:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/629423c16d3bbbf5cffed811fef6a70a/AndroidManifest.xml:26:5-20
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/629423c16d3bbbf5cffed811fef6a70a/AndroidManifest.xml:26:5-20
+	android:supportsRtl
+		ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:13:9-35
+	android:label
+		ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:11:9-41
+	android:roundIcon
+		ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:12:9-54
+	android:icon
+		ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:10:9-43
+	android:allowBackup
+		ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:9:9-35
+	android:theme
+		ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:14:9-40
+meta-data#com.facebook.accountkit.ApplicationName
+ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:15:9-16:48
+	android:value
+		ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:16:13-45
+	android:name
+		ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:15:20-74
+meta-data#com.facebook.sdk.ApplicationId
+ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:17:9-18:55
+	android:value
+		ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:18:13-52
+	android:name
+		ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:17:20-65
+meta-data#com.facebook.accountkit.ClientToken
+ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:19:9-20:64
+	android:value
+		ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:20:13-61
+	android:name
+		ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:19:20-70
+activity#com.facebook.accountkit.ui.AccountKitActivity
+ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:22:9-26:20
+MERGED from [com.facebook.android:account-kit-sdk:4.28.0] /home/alimam/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.28.0.aar/5e80f93cceccad60a53502cdee43c0e0/AndroidManifest.xml:29:9-34:58
+MERGED from [com.facebook.android:account-kit-sdk:4.28.0] /home/alimam/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.28.0.aar/5e80f93cceccad60a53502cdee43c0e0/AndroidManifest.xml:29:9-34:58
+	android:label
+		ADDED from [com.facebook.android:account-kit-sdk:4.28.0] /home/alimam/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.28.0.aar/5e80f93cceccad60a53502cdee43c0e0/AndroidManifest.xml:31:13-65
+	android:launchMode
+		ADDED from [com.facebook.android:account-kit-sdk:4.28.0] /home/alimam/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.28.0.aar/5e80f93cceccad60a53502cdee43c0e0/AndroidManifest.xml:32:13-43
+	android:windowSoftInputMode
+		ADDED from [com.facebook.android:account-kit-sdk:4.28.0] /home/alimam/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.28.0.aar/5e80f93cceccad60a53502cdee43c0e0/AndroidManifest.xml:34:13-55
+	android:theme
+		ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:24:13-49
+		REJECTED from [com.facebook.android:account-kit-sdk:4.28.0] /home/alimam/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.28.0.aar/5e80f93cceccad60a53502cdee43c0e0/AndroidManifest.xml:33:13-52
+	tools:replace
+		ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:25:13-42
+	android:name
+		ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:23:13-73
+activity#com.facebook.accountkit.ui.AccountKitEmailRedirectActivity
+ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:28:9-35:20
+MERGED from [com.facebook.android:account-kit-sdk:4.28.0] /home/alimam/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.28.0.aar/5e80f93cceccad60a53502cdee43c0e0/AndroidManifest.xml:35:9-38:40
+MERGED from [com.facebook.android:account-kit-sdk:4.28.0] /home/alimam/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.28.0.aar/5e80f93cceccad60a53502cdee43c0e0/AndroidManifest.xml:35:9-38:40
+	android:noHistory
+		ADDED from [com.facebook.android:account-kit-sdk:4.28.0] /home/alimam/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.28.0.aar/5e80f93cceccad60a53502cdee43c0e0/AndroidManifest.xml:38:13-37
+	android:exported
+		ADDED from [com.facebook.android:account-kit-sdk:4.28.0] /home/alimam/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.28.0.aar/5e80f93cceccad60a53502cdee43c0e0/AndroidManifest.xml:37:13-36
+	android:name
+		ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:28:19-92
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:29:13-34:29
+action#android.intent.action.VIEW
+ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:30:17-69
+	android:name
+		ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:30:25-66
+category#android.intent.category.DEFAULT
+ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:31:17-76
+	android:name
+		ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:31:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:32:17-78
+	android:name
+		ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:32:27-75
+data
+ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:33:17-75
+	android:scheme
+		ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:33:23-72
+activity#com.example.udacity.surfconnect.LoginActivity
+ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:45:9-54:20
+	android:screenOrientation
+		ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:47:13-49
+	android:theme
+		ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:48:13-51
+	android:name
+		ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:46:13-73
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:49:13-53:29
+action#android.intent.action.MAIN
+ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:50:17-69
+	android:name
+		ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:50:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:52:17-77
+	android:name
+		ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:52:27-74
+activity#com.example.udacity.surfconnect.AccountActivity
+ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:56:9-59:52
+	android:screenOrientation
+		ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:59:13-49
+	android:label
+		ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:58:13-44
+	android:name
+		ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:57:13-75
+uses-sdk
+INJECTED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml
+INJECTED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml
+MERGED from [com.facebook.android:account-kit-sdk:4.28.0] /home/alimam/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.28.0.aar/5e80f93cceccad60a53502cdee43c0e0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:account-kit-sdk:4.28.0] /home/alimam/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.28.0.aar/5e80f93cceccad60a53502cdee43c0e0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:design:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/f3817e3600a4e279325609e36937d15c/AndroidManifest.xml:21:5-23:62
+MERGED from [com.android.support:design:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/f3817e3600a4e279325609e36937d15c/AndroidManifest.xml:21:5-23:62
+MERGED from [com.facebook.android:facebook-android-sdk:4.28.0] /home/alimam/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.28.0.aar/84b9281a3fea8e12b2d6e00643bf37f4/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-android-sdk:4.28.0] /home/alimam/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.28.0.aar/84b9281a3fea8e12b2d6e00643bf37f4/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.28.0] /home/alimam/.gradle/caches/transforms-1/files-1.1/facebook-login-4.28.0.aar/46fc3e1bc832688375c75d6e4558de32/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-login:4.28.0] /home/alimam/.gradle/caches/transforms-1/files-1.1/facebook-login-4.28.0.aar/46fc3e1bc832688375c75d6e4558de32/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.28.0] /home/alimam/.gradle/caches/transforms-1/files-1.1/facebook-share-4.28.0.aar/afd5b20b4dfd6640431fedc3eaa490fd/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-share:4.28.0] /home/alimam/.gradle/caches/transforms-1/files-1.1/facebook-share-4.28.0.aar/afd5b20b4dfd6640431fedc3eaa490fd/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.28.0] /home/alimam/.gradle/caches/transforms-1/files-1.1/facebook-common-4.28.0.aar/871b0694d287b5995714dbd41d0fa3b8/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-common:4.28.0] /home/alimam/.gradle/caches/transforms-1/files-1.1/facebook-common-4.28.0.aar/871b0694d287b5995714dbd41d0fa3b8/AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/9136a0bf25497b6a1b606afe05795878/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/9136a0bf25497b6a1b606afe05795878/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/alimam/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/0d77361c95d6adddf9aabf05821d76cf/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support.constraint:constraint-layout:1.0.2] /home/alimam/.gradle/caches/transforms-1/files-1.1/constraint-layout-1.0.2.aar/0d77361c95d6adddf9aabf05821d76cf/AndroidManifest.xml:5:5-7:41
+MERGED from [com.android.support:transition:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/dcfcec056fd274096788e61982a3ebb4/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:transition:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/dcfcec056fd274096788e61982a3ebb4/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.0.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-11.0.1.aar/1f07913cf2d23a83175902542b68e5c8/AndroidManifest.xml:3:3-41
+MERGED from [com.google.android.gms:play-services-auth-api-phone:11.0.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/play-services-auth-api-phone-11.0.1.aar/1f07913cf2d23a83175902542b68e5c8/AndroidManifest.xml:3:3-41
+MERGED from [com.google.android.gms:play-services-auth:11.0.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.0.1.aar/c52fe87301c507418b21e0f686f02a12/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth:11.0.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.0.1.aar/c52fe87301c507418b21e0f686f02a12/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:11.0.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-11.0.1.aar/75e2dfc7ec6e8d2a8a9573d1e1d8e1a3/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-auth-base:11.0.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/play-services-auth-base-11.0.1.aar/75e2dfc7ec6e8d2a8a9573d1e1d8e1a3/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.1.aar/31d95291742d44d35637651ffd8d26cc/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-base:11.0.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.1.aar/31d95291742d44d35637651ffd8d26cc/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.1.aar/6864347ed80b860bf2b1144719230497/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-tasks:11.0.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/play-services-tasks-11.0.1.aar/6864347ed80b860bf2b1144719230497/AndroidManifest.xml:3:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.1.aar/71826669b44d4c8f062fb88f859e7214/AndroidManifest.xml:17:5-43
+MERGED from [com.google.android.gms:play-services-basement:11.0.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.1.aar/71826669b44d4c8f062fb88f859e7214/AndroidManifest.xml:17:5-43
+MERGED from [com.android.support:support-v4:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/17038219df9a15967ed3859c127622c1/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:support-v4:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/17038219df9a15967ed3859c127622c1/AndroidManifest.xml:21:5-23:54
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/7ded95ca430d0d10de899dc464c8ae52/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/7ded95ca430d0d10de899dc464c8ae52/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/8e3ee458ff117d3a4d7ff62c23dd1c7f/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/8e3ee458ff117d3a4d7ff62c23dd1c7f/AndroidManifest.xml:20:5-43
+MERGED from [com.facebook.android:facebook-places:4.28.0] /home/alimam/.gradle/caches/transforms-1/files-1.1/facebook-places-4.28.0.aar/4ec486115462bafa31dd8f249d1025bf/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-places:4.28.0] /home/alimam/.gradle/caches/transforms-1/files-1.1/facebook-places-4.28.0.aar/4ec486115462bafa31dd8f249d1025bf/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.28.0] /home/alimam/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.28.0.aar/ad94cb633b5db181083b1bc0cd5927e7/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-applinks:4.28.0] /home/alimam/.gradle/caches/transforms-1/files-1.1/facebook-applinks-4.28.0.aar/ad94cb633b5db181083b1bc0cd5927e7/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.28.0] /home/alimam/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.28.0.aar/c9cae638bece6e896fdd163a5c485c9d/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-messenger:4.28.0] /home/alimam/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.28.0.aar/c9cae638bece6e896fdd163a5c485c9d/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.28.0] /home/alimam/.gradle/caches/transforms-1/files-1.1/facebook-core-4.28.0.aar/2e690b7cc6d4081e498d2535ba1e75b0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.facebook.android:facebook-core:4.28.0] /home/alimam/.gradle/caches/transforms-1/files-1.1/facebook-core-4.28.0.aar/2e690b7cc6d4081e498d2535ba1e75b0/AndroidManifest.xml:24:5-26:41
+MERGED from [com.android.support:support-fragment:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/276fefaa3f7ff8d706a4343fb0d922ee/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-fragment:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/276fefaa3f7ff8d706a4343fb0d922ee/AndroidManifest.xml:21:5-23:60
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/8481e4bfacd1aa883d20a2a4faeedf75/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/8481e4bfacd1aa883d20a2a4faeedf75/AndroidManifest.xml:21:5-23:61
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/a1c39bb09e5028911f08d8037d0f180a/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/a1c39bb09e5028911f08d8037d0f180a/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/78e45dc70cd9841262039709a1ab8a38/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/78e45dc70cd9841262039709a1ab8a38/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:customtabs:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/customtabs-25.3.1.aar/0f7ed0ba2f55b46fd840bcac8403c723/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:customtabs:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/customtabs-25.3.1.aar/0f7ed0ba2f55b46fd840bcac8403c723/AndroidManifest.xml:20:5-44
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/2cc3f12ee418030e95a3e9dbfb613df0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/2cc3f12ee418030e95a3e9dbfb613df0/AndroidManifest.xml:21:5-23:63
+MERGED from [com.android.support:support-compat:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/06e30ebe9755b118d06cfbb0b6565ee0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:support-compat:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/06e30ebe9755b118d06cfbb0b6565ee0/AndroidManifest.xml:21:5-23:58
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/629423c16d3bbbf5cffed811fef6a70a/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/629423c16d3bbbf5cffed811fef6a70a/AndroidManifest.xml:20:5-43
+INJECTED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml
+INJECTED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml
+	tools:overrideLibrary
+		ADDED from [com.android.support:design:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/f3817e3600a4e279325609e36937d15c/AndroidManifest.xml:23:9-59
+	android:targetSdkVersion
+		INJECTED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml
+		ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml
+		INJECTED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml
+		ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml
+		INJECTED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml
+provider#com.facebook.accountkit.internal.AccountKitInitProvider
+ADDED from [com.facebook.android:account-kit-sdk:4.28.0] /home/alimam/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.28.0.aar/5e80f93cceccad60a53502cdee43c0e0/AndroidManifest.xml:49:9-52:40
+	android:authorities
+		ADDED from [com.facebook.android:account-kit-sdk:4.28.0] /home/alimam/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.28.0.aar/5e80f93cceccad60a53502cdee43c0e0/AndroidManifest.xml:51:13-76
+	android:exported
+		ADDED from [com.facebook.android:account-kit-sdk:4.28.0] /home/alimam/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.28.0.aar/5e80f93cceccad60a53502cdee43c0e0/AndroidManifest.xml:52:13-37
+	android:name
+		ADDED from [com.facebook.android:account-kit-sdk:4.28.0] /home/alimam/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.28.0.aar/5e80f93cceccad60a53502cdee43c0e0/AndroidManifest.xml:50:13-83
+meta-data#android.support.VERSION
+ADDED from [com.android.support:design:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/f3817e3600a4e279325609e36937d15c/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/9136a0bf25497b6a1b606afe05795878/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:appcompat-v7:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/9136a0bf25497b6a1b606afe05795878/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:transition:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/dcfcec056fd274096788e61982a3ebb4/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:transition:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/transition-25.3.1.aar/dcfcec056fd274096788e61982a3ebb4/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/17038219df9a15967ed3859c127622c1/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-v4:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/support-v4-25.3.1.aar/17038219df9a15967ed3859c127622c1/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/7ded95ca430d0d10de899dc464c8ae52/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:animated-vector-drawable:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/animated-vector-drawable-25.3.1.aar/7ded95ca430d0d10de899dc464c8ae52/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/8e3ee458ff117d3a4d7ff62c23dd1c7f/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-vector-drawable:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/support-vector-drawable-25.3.1.aar/8e3ee458ff117d3a4d7ff62c23dd1c7f/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/276fefaa3f7ff8d706a4343fb0d922ee/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-fragment:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/support-fragment-25.3.1.aar/276fefaa3f7ff8d706a4343fb0d922ee/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/8481e4bfacd1aa883d20a2a4faeedf75/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-utils:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/support-core-utils-25.3.1.aar/8481e4bfacd1aa883d20a2a4faeedf75/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/a1c39bb09e5028911f08d8037d0f180a/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:recyclerview-v7:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/recyclerview-v7-25.3.1.aar/a1c39bb09e5028911f08d8037d0f180a/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/78e45dc70cd9841262039709a1ab8a38/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-core-ui:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/support-core-ui-25.3.1.aar/78e45dc70cd9841262039709a1ab8a38/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:customtabs:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/customtabs-25.3.1.aar/0f7ed0ba2f55b46fd840bcac8403c723/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:customtabs:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/customtabs-25.3.1.aar/0f7ed0ba2f55b46fd840bcac8403c723/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/2cc3f12ee418030e95a3e9dbfb613df0/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-media-compat:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/2cc3f12ee418030e95a3e9dbfb613df0/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/06e30ebe9755b118d06cfbb0b6565ee0/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:support-compat:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/06e30ebe9755b118d06cfbb0b6565ee0/AndroidManifest.xml:25:5-27:34
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/629423c16d3bbbf5cffed811fef6a70a/AndroidManifest.xml:22:5-24:34
+MERGED from [com.android.support:cardview-v7:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/629423c16d3bbbf5cffed811fef6a70a/AndroidManifest.xml:22:5-24:34
+	android:value
+		ADDED from [com.android.support:design:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/f3817e3600a4e279325609e36937d15c/AndroidManifest.xml:27:9-31
+	android:name
+		ADDED from [com.android.support:design:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/f3817e3600a4e279325609e36937d15c/AndroidManifest.xml:26:9-47
+activity#com.facebook.FacebookActivity
+ADDED from [com.facebook.android:facebook-common:4.28.0] /home/alimam/.gradle/caches/transforms-1/files-1.1/facebook-common-4.28.0.aar/871b0694d287b5995714dbd41d0fa3b8/AndroidManifest.xml:29:9-32:66
+	android:configChanges
+		ADDED from [com.facebook.android:facebook-common:4.28.0] /home/alimam/.gradle/caches/transforms-1/files-1.1/facebook-common-4.28.0.aar/871b0694d287b5995714dbd41d0fa3b8/AndroidManifest.xml:31:13-96
+	android:theme
+		ADDED from [com.facebook.android:facebook-common:4.28.0] /home/alimam/.gradle/caches/transforms-1/files-1.1/facebook-common-4.28.0.aar/871b0694d287b5995714dbd41d0fa3b8/AndroidManifest.xml:32:13-63
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.28.0] /home/alimam/.gradle/caches/transforms-1/files-1.1/facebook-common-4.28.0.aar/871b0694d287b5995714dbd41d0fa3b8/AndroidManifest.xml:30:13-57
+activity#com.facebook.CustomTabMainActivity
+ADDED from [com.facebook.android:facebook-common:4.28.0] /home/alimam/.gradle/caches/transforms-1/files-1.1/facebook-common-4.28.0.aar/871b0694d287b5995714dbd41d0fa3b8/AndroidManifest.xml:33:9-71
+	android:name
+		ADDED from [com.facebook.android:facebook-common:4.28.0] /home/alimam/.gradle/caches/transforms-1/files-1.1/facebook-common-4.28.0.aar/871b0694d287b5995714dbd41d0fa3b8/AndroidManifest.xml:33:19-68
+activity#com.google.android.gms.auth.api.signin.internal.SignInHubActivity
+ADDED from [com.google.android.gms:play-services-auth:11.0.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.0.1.aar/c52fe87301c507418b21e0f686f02a12/AndroidManifest.xml:20:9-189
+	android:excludeFromRecents
+		ADDED from [com.google.android.gms:play-services-auth:11.0.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.0.1.aar/c52fe87301c507418b21e0f686f02a12/AndroidManifest.xml:20:129-162
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.0.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.0.1.aar/c52fe87301c507418b21e0f686f02a12/AndroidManifest.xml:20:163-187
+	android:theme
+		ADDED from [com.google.android.gms:play-services-auth:11.0.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.0.1.aar/c52fe87301c507418b21e0f686f02a12/AndroidManifest.xml:20:69-128
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.0.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.0.1.aar/c52fe87301c507418b21e0f686f02a12/AndroidManifest.xml:20:19-68
+service#com.google.android.gms.auth.api.signin.RevocationBoundService
+ADDED from [com.google.android.gms:play-services-auth:11.0.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.0.1.aar/c52fe87301c507418b21e0f686f02a12/AndroidManifest.xml:24:9-184
+	android:exported
+		ADDED from [com.google.android.gms:play-services-auth:11.0.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.0.1.aar/c52fe87301c507418b21e0f686f02a12/AndroidManifest.xml:24:64-87
+	android:permission
+		ADDED from [com.google.android.gms:play-services-auth:11.0.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.0.1.aar/c52fe87301c507418b21e0f686f02a12/AndroidManifest.xml:24:88-182
+	android:name
+		ADDED from [com.google.android.gms:play-services-auth:11.0.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/play-services-auth-11.0.1.aar/c52fe87301c507418b21e0f686f02a12/AndroidManifest.xml:24:18-63
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:11.0.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.1.aar/31d95291742d44d35637651ffd8d26cc/AndroidManifest.xml:19:9-172
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:11.0.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.1.aar/31d95291742d44d35637651ffd8d26cc/AndroidManifest.xml:19:146-170
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:11.0.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.1.aar/31d95291742d44d35637651ffd8d26cc/AndroidManifest.xml:19:86-145
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:11.0.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.1.aar/31d95291742d44d35637651ffd8d26cc/AndroidManifest.xml:19:19-85
+meta-data#com.google.android.gms.version
+ADDED from [com.google.android.gms:play-services-basement:11.0.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.1.aar/71826669b44d4c8f062fb88f859e7214/AndroidManifest.xml:20:9-121
+	android:value
+		ADDED from [com.google.android.gms:play-services-basement:11.0.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.1.aar/71826669b44d4c8f062fb88f859e7214/AndroidManifest.xml:20:66-119
+	android:name
+		ADDED from [com.google.android.gms:play-services-basement:11.0.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/play-services-basement-11.0.1.aar/71826669b44d4c8f062fb88f859e7214/AndroidManifest.xml:20:20-65
+provider#com.facebook.internal.FacebookInitProvider
+ADDED from [com.facebook.android:facebook-core:4.28.0] /home/alimam/.gradle/caches/transforms-1/files-1.1/facebook-core-4.28.0.aar/2e690b7cc6d4081e498d2535ba1e75b0/AndroidManifest.xml:39:9-42:40
+	android:authorities
+		ADDED from [com.facebook.android:facebook-core:4.28.0] /home/alimam/.gradle/caches/transforms-1/files-1.1/facebook-core-4.28.0.aar/2e690b7cc6d4081e498d2535ba1e75b0/AndroidManifest.xml:41:13-72
+	android:exported
+		ADDED from [com.facebook.android:facebook-core:4.28.0] /home/alimam/.gradle/caches/transforms-1/files-1.1/facebook-core-4.28.0.aar/2e690b7cc6d4081e498d2535ba1e75b0/AndroidManifest.xml:42:13-37
+	android:name
+		ADDED from [com.facebook.android:facebook-core:4.28.0] /home/alimam/.gradle/caches/transforms-1/files-1.1/facebook-core-4.28.0.aar/2e690b7cc6d4081e498d2535ba1e75b0/AndroidManifest.xml:40:13-70
