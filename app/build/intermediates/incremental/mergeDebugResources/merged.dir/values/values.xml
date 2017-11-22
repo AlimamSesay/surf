@@ -1178,6 +1178,7 @@
     <string name="common_signin_button_text">Sign in</string>
     <string name="common_signin_button_text_long">Sign in with Google</string>
     <string name="email_label">Email</string>
+    <string name="fb_login_protocol_scheme">fb126467171463176</string>
     <string name="id_label">Account ID</string>
     <string name="login_email_label">Login with Email</string>
     <string name="login_phone_label">Login with Phone Number</string>
@@ -1239,7 +1240,7 @@
         <item name="com_accountkit_icon_color">@color/ak_icon</item>
     </style>
     <style name="AppTheme" parent="Theme.AppCompat.Light.DarkActionBar">
-        <!-- Customize your theme here. -->
+        
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>

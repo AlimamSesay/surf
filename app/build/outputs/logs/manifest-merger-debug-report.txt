@@ -1,9 +1,9 @@
 -- Merging decision tree log ---
 manifest
-ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:2:1-63:12
-INJECTED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:2:1-63:12
-INJECTED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:2:1-63:12
-INJECTED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:2:1-63:12
+ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:2:1-74:12
+INJECTED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:2:1-74:12
+INJECTED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:2:1-74:12
+INJECTED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:2:1-74:12
 MERGED from [com.facebook.android:account-kit-sdk:4.28.0] /home/alimam/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.28.0.aar/5e80f93cceccad60a53502cdee43c0e0/AndroidManifest.xml:21:1-55:12
 MERGED from [com.android.support:design:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/f3817e3600a4e279325609e36937d15c/AndroidManifest.xml:17:1-31:12
 MERGED from [com.facebook.android:facebook-android-sdk:4.28.0] /home/alimam/.gradle/caches/transforms-1/files-1.1/facebook-android-sdk-4.28.0.aar/84b9281a3fea8e12b2d6e00643bf37f4/AndroidManifest.xml:21:1-31:12
@@ -34,22 +34,22 @@ MERGED from [com.android.support:customtabs:25.3.1] /home/alimam/.gradle/caches/
 MERGED from [com.android.support:support-media-compat:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/support-media-compat-25.3.1.aar/2cc3f12ee418030e95a3e9dbfb613df0/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:support-compat:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/support-compat-25.3.1.aar/06e30ebe9755b118d06cfbb0b6565ee0/AndroidManifest.xml:17:1-31:12
 MERGED from [com.android.support:cardview-v7:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/cardview-v7-25.3.1.aar/629423c16d3bbbf5cffed811fef6a70a/AndroidManifest.xml:17:1-28:12
-INJECTED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:2:1-63:12
-INJECTED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:2:1-63:12
-INJECTED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:2:1-63:12
+INJECTED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:2:1-74:12
+INJECTED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:2:1-74:12
+INJECTED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:2:1-74:12
 	package
 		ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:4:5-46
 		INJECTED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml
 		INJECTED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml
 	android:versionName
 		INJECTED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml
-		ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:2:1-63:12
+		ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:2:1-74:12
 		INJECTED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml
 	xmlns:tools
 		ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:3:5-51
 	android:versionCode
 		INJECTED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml
-		ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:2:1-63:12
+		ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:2:1-74:12
 		INJECTED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml
 	xmlns:android
 		ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:2:11-69
@@ -58,7 +58,7 @@ ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/
 	android:name
 		ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:6:22-64
 application
-ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:8:5-61:19
+ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:8:5-72:19
 MERGED from [com.facebook.android:account-kit-sdk:4.28.0] /home/alimam/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.28.0.aar/5e80f93cceccad60a53502cdee43c0e0/AndroidManifest.xml:28:5-53:19
 MERGED from [com.facebook.android:account-kit-sdk:4.28.0] /home/alimam/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.28.0.aar/5e80f93cceccad60a53502cdee43c0e0/AndroidManifest.xml:28:5-53:19
 MERGED from [com.android.support:design:25.3.1] /home/alimam/.gradle/caches/transforms-1/files-1.1/design-25.3.1.aar/f3817e3600a4e279325609e36937d15c/AndroidManifest.xml:29:5-20
@@ -143,8 +143,32 @@ ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/
 		ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:20:13-61
 	android:name
 		ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:19:20-70
+activity#com.facebook.CustomTabActivity
+ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:22:9-31:20
+	android:exported
+		ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:24:13-36
+	android:name
+		ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:23:13-58
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:25:13-30:29
+action#android.intent.action.VIEW
+ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:26:17-69
+	android:name
+		ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:26:25-66
+category#android.intent.category.DEFAULT
+ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:27:17-76
+	android:name
+		ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:27:27-73
+category#android.intent.category.BROWSABLE
+ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:28:17-78
+	android:name
+		ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:28:27-75
+data
+ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:29:17-75
+	android:scheme
+		ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:29:23-72
 activity#com.facebook.accountkit.ui.AccountKitActivity
-ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:22:9-26:20
+ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:33:9-37:20
 MERGED from [com.facebook.android:account-kit-sdk:4.28.0] /home/alimam/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.28.0.aar/5e80f93cceccad60a53502cdee43c0e0/AndroidManifest.xml:29:9-34:58
 MERGED from [com.facebook.android:account-kit-sdk:4.28.0] /home/alimam/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.28.0.aar/5e80f93cceccad60a53502cdee43c0e0/AndroidManifest.xml:29:9-34:58
 	android:label
@@ -154,14 +178,14 @@ MERGED from [com.facebook.android:account-kit-sdk:4.28.0] /home/alimam/.gradle/c
 	android:windowSoftInputMode
 		ADDED from [com.facebook.android:account-kit-sdk:4.28.0] /home/alimam/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.28.0.aar/5e80f93cceccad60a53502cdee43c0e0/AndroidManifest.xml:34:13-55
 	android:theme
-		ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:24:13-49
+		ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:35:13-49
 		REJECTED from [com.facebook.android:account-kit-sdk:4.28.0] /home/alimam/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.28.0.aar/5e80f93cceccad60a53502cdee43c0e0/AndroidManifest.xml:33:13-52
 	tools:replace
-		ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:25:13-42
+		ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:36:13-42
 	android:name
-		ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:23:13-73
+		ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:34:13-73
 activity#com.facebook.accountkit.ui.AccountKitEmailRedirectActivity
-ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:28:9-35:20
+ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:39:9-46:20
 MERGED from [com.facebook.android:account-kit-sdk:4.28.0] /home/alimam/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.28.0.aar/5e80f93cceccad60a53502cdee43c0e0/AndroidManifest.xml:35:9-38:40
 MERGED from [com.facebook.android:account-kit-sdk:4.28.0] /home/alimam/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.28.0.aar/5e80f93cceccad60a53502cdee43c0e0/AndroidManifest.xml:35:9-38:40
 	android:noHistory
@@ -169,51 +193,33 @@ MERGED from [com.facebook.android:account-kit-sdk:4.28.0] /home/alimam/.gradle/c
 	android:exported
 		ADDED from [com.facebook.android:account-kit-sdk:4.28.0] /home/alimam/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.28.0.aar/5e80f93cceccad60a53502cdee43c0e0/AndroidManifest.xml:37:13-36
 	android:name
-		ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:28:19-92
-intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
-ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:29:13-34:29
-action#android.intent.action.VIEW
-ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:30:17-69
-	android:name
-		ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:30:25-66
-category#android.intent.category.DEFAULT
-ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:31:17-76
-	android:name
-		ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:31:27-73
-category#android.intent.category.BROWSABLE
-ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:32:17-78
-	android:name
-		ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:32:27-75
-data
-ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:33:17-75
-	android:scheme
-		ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:33:23-72
+		ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:39:19-92
 activity#com.example.udacity.surfconnect.LoginActivity
-ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:45:9-54:20
+ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:56:9-65:20
 	android:screenOrientation
-		ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:47:13-49
+		ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:58:13-49
 	android:theme
-		ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:48:13-51
+		ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:59:13-51
 	android:name
-		ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:46:13-73
+		ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:57:13-73
 intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
-ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:49:13-53:29
+ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:60:13-64:29
 action#android.intent.action.MAIN
-ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:50:17-69
+ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:61:17-69
 	android:name
-		ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:50:25-66
+		ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:61:25-66
 category#android.intent.category.LAUNCHER
-ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:52:17-77
+ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:63:17-77
 	android:name
-		ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:52:27-74
+		ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:63:27-74
 activity#com.example.udacity.surfconnect.AccountActivity
-ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:56:9-59:52
+ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:67:9-70:52
 	android:screenOrientation
-		ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:59:13-49
+		ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:70:13-49
 	android:label
-		ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:58:13-44
+		ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:69:13-44
 	android:name
-		ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:57:13-75
+		ADDED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml:68:13-75
 uses-sdk
 INJECTED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
 INJECTED from /home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/AndroidManifest.xml

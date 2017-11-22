@@ -10,5 +10,6 @@
 
     <string name="FACEBOOK_APP_ID">126467171463176</string>
     <string name="ak_login_protocol_scheme">ak126467171463176</string>
+    <string name="fb_login_protocol_scheme">fb126467171463176</string>
     <string name="ACCOUNT_KIT_CLIENT_TOKEN">865c0eddbb6dd1450d5fb8071a679cf7</string>
 </resources>

@@ -1,31 +1,31 @@
 [
     {
-        "merged": "/home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_tooltip_black_bottomnub.png.flat",
-        "source": "/home/alimam/.gradle/caches/transforms-1/files-1.1/facebook-login-4.28.0.aar/46fc3e1bc832688375c75d6e4558de32/res/drawable-xhdpi-v4/com_facebook_tooltip_black_bottomnub.png"
+        "merged": "/home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_messenger_bubble_small_white.png.flat",
+        "source": "/home/alimam/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.28.0.aar/c9cae638bece6e896fdd163a5c485c9d/res/drawable-hdpi-v4/messenger_bubble_small_white.png"
     },
     {
         "merged": "/home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/layout-v16_notification_template_custom_big.xml.flat",
         "source": "/home/alimam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/9136a0bf25497b6a1b606afe05795878/res/layout-v16/notification_template_custom_big.xml"
     },
     {
-        "merged": "/home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/drawable-hdpi-v4_messenger_bubble_small_white.png.flat",
-        "source": "/home/alimam/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.28.0.aar/c9cae638bece6e896fdd163a5c485c9d/res/drawable-hdpi-v4/messenger_bubble_small_white.png"
+        "merged": "/home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_com_facebook_tooltip_black_bottomnub.png.flat",
+        "source": "/home/alimam/.gradle/caches/transforms-1/files-1.1/facebook-login-4.28.0.aar/46fc3e1bc832688375c75d6e4558de32/res/drawable-xhdpi-v4/com_facebook_tooltip_black_bottomnub.png"
     },
     {
         "merged": "/home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_abc_ic_menu_copy_mtrl_am_alpha.png.flat",
         "source": "/home/alimam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/9136a0bf25497b6a1b606afe05795878/res/drawable-xxxhdpi-v4/abc_ic_menu_copy_mtrl_am_alpha.png"
     },
     {
-        "merged": "/home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/drawable_abc_seekbar_tick_mark_material.xml.flat",
-        "source": "/home/alimam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/9136a0bf25497b6a1b606afe05795878/res/drawable/abc_seekbar_tick_mark_material.xml"
+        "merged": "/home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
+        "source": "/home/alimam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/9136a0bf25497b6a1b606afe05795878/res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
     },
     {
         "merged": "/home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/layout_abc_expanded_menu_layout.xml.flat",
         "source": "/home/alimam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/9136a0bf25497b6a1b606afe05795878/res/layout/abc_expanded_menu_layout.xml"
     },
     {
-        "merged": "/home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
-        "source": "/home/alimam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/9136a0bf25497b6a1b606afe05795878/res/drawable-mdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+        "merged": "/home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/drawable_abc_seekbar_tick_mark_material.xml.flat",
+        "source": "/home/alimam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/9136a0bf25497b6a1b606afe05795878/res/drawable/abc_seekbar_tick_mark_material.xml"
     },
     {
         "merged": "/home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/layout_select_dialog_singlechoice_material.xml.flat",
@@ -52,12 +52,12 @@
         "source": "/home/alimam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/9136a0bf25497b6a1b606afe05795878/res/color/switch_thumb_material_dark.xml"
     },
     {
-        "merged": "/home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
-        "source": "/home/alimam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/9136a0bf25497b6a1b606afe05795878/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
-    },
-    {
         "merged": "/home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00001.9.png.flat",
         "source": "/home/alimam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/9136a0bf25497b6a1b606afe05795878/res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00001.9.png"
+    },
+    {
+        "merged": "/home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_notification_bg_normal_pressed.9.png.flat",
+        "source": "/home/alimam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/9136a0bf25497b6a1b606afe05795878/res/drawable-xhdpi-v4/notification_bg_normal_pressed.9.png"
     },
     {
         "merged": "/home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/drawable-xxxhdpi-v4_design_ic_visibility_off.png.flat",
@@ -84,20 +84,20 @@
         "source": "/home/alimam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/9136a0bf25497b6a1b606afe05795878/res/drawable-xxhdpi-v4/abc_scrubber_primary_mtrl_alpha.9.png"
     },
     {
-        "merged": "/home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/drawable-mdpi_icon_profile_empty.png.flat",
-        "source": "/home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/res/drawable-mdpi/icon_profile_empty.png"
-    },
-    {
         "merged": "/home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_googleg_standard_color_18.png.flat",
         "source": "/home/alimam/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.1.aar/31d95291742d44d35637651ffd8d26cc/res/drawable-xhdpi-v4/googleg_standard_color_18.png"
     },
     {
-        "merged": "/home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/layout-v11_notification_template_big_media_narrow_custom.xml.flat",
-        "source": "/home/alimam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/9136a0bf25497b6a1b606afe05795878/res/layout-v11/notification_template_big_media_narrow_custom.xml"
+        "merged": "/home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/drawable-mdpi_icon_profile_empty.png.flat",
+        "source": "/home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/src/main/res/drawable-mdpi/icon_profile_empty.png"
     },
     {
         "merged": "/home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/drawable-xxhdpi-v4_messenger_bubble_small_white.png.flat",
         "source": "/home/alimam/.gradle/caches/transforms-1/files-1.1/facebook-messenger-4.28.0.aar/c9cae638bece6e896fdd163a5c485c9d/res/drawable-xxhdpi-v4/messenger_bubble_small_white.png"
+    },
+    {
+        "merged": "/home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/layout-v11_notification_template_big_media_narrow_custom.xml.flat",
+        "source": "/home/alimam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/9136a0bf25497b6a1b606afe05795878/res/layout-v11/notification_template_big_media_narrow_custom.xml"
     },
     {
         "merged": "/home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/layout_com_accountkit_confirmation_code_input.xml.flat",
@@ -136,12 +136,12 @@
         "source": "/home/alimam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/9136a0bf25497b6a1b606afe05795878/res/drawable-mdpi-v4/notification_bg_normal.9.png"
     },
     {
-        "merged": "/home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
-        "source": "/home/alimam/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.1.aar/31d95291742d44d35637651ffd8d26cc/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
-    },
-    {
         "merged": "/home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/drawable-ldrtl-xxxhdpi-v17_abc_ic_menu_cut_mtrl_alpha.png.flat",
         "source": "/home/alimam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/9136a0bf25497b6a1b606afe05795878/res/drawable-ldrtl-xxxhdpi-v17/abc_ic_menu_cut_mtrl_alpha.png"
+    },
+    {
+        "merged": "/home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/drawable-mdpi-v4_common_google_signin_btn_text_dark_normal_background.9.png.flat",
+        "source": "/home/alimam/.gradle/caches/transforms-1/files-1.1/play-services-base-11.0.1.aar/31d95291742d44d35637651ffd8d26cc/res/drawable-mdpi-v4/common_google_signin_btn_text_dark_normal_background.9.png"
     },
     {
         "merged": "/home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/drawable-v21_design_password_eye.xml.flat",
@@ -180,12 +180,12 @@
         "source": "/home/alimam/.gradle/caches/transforms-1/files-1.1/account-kit-sdk-4.28.0.aar/5e80f93cceccad60a53502cdee43c0e0/res/layout/com_accountkit_fragment_email_login_text.xml"
     },
     {
-        "merged": "/home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/drawable_abc_btn_borderless_material.xml.flat",
-        "source": "/home/alimam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/9136a0bf25497b6a1b606afe05795878/res/drawable/abc_btn_borderless_material.xml"
-    },
-    {
         "merged": "/home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_btn_switch_to_on_mtrl_00012.9.png.flat",
         "source": "/home/alimam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/9136a0bf25497b6a1b606afe05795878/res/drawable-xhdpi-v4/abc_btn_switch_to_on_mtrl_00012.9.png"
+    },
+    {
+        "merged": "/home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/drawable_abc_btn_borderless_material.xml.flat",
+        "source": "/home/alimam/.gradle/caches/transforms-1/files-1.1/appcompat-v7-25.3.1.aar/9136a0bf25497b6a1b606afe05795878/res/drawable/abc_btn_borderless_material.xml"
     },
     {
         "merged": "/home/alimam/AndroidStudioProjects/AccountKitLoginStarterProject/app/build/intermediates/res/merged/debug/drawable-xhdpi-v4_abc_list_pressed_holo_light.9.png.flat",
